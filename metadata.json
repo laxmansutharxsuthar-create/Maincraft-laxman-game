@@ -1,0 +1,8 @@
+{
+  "name": "Block World 3D",
+  "description": "An immersive 3D voxel sandbox game inspired by Minecraft featuring procedurally generated terrain, building, survival and creative modes, mobs, day-night cycles, and touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
